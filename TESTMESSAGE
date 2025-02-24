@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CiscoIPPhoneText>
+    <Title>Emergency Alert</Title>
+    <Text>This is a test emergency alert message!</Text>
+    <URL>http://example.com</URL>
+</CiscoIPPhoneText>
